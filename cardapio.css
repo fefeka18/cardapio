@@ -1,0 +1,31 @@
+body,html {
+ margin: auto;
+ border: solid 10px brown;
+ background-color: yellow;
+}
+
+#destaque{
+    background-image: url(fundo.jpg);
+    text-align: center;
+    color: black;
+    height: 100px;
+}
+    
+.item{
+   width: 20%;
+   border: 10px solid yellow;
+   float: left;
+   text-align: center;
+   padding: 2%;
+}
+
+#produtos{
+    border: solid 5px brown; 
+    text-align: justify;
+    clear: both;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+}
